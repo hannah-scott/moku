@@ -1,6 +1,6 @@
 # moku
 
-An Atom feed generator for the [HTML Journal](https://journal.miso.town/) format, an HTML journalling format designed that is easy to syndicate.
+An Atom feed generator for the [HTML Journal](https://journal.miso.town/) format, an journalling format that is designed to be easy to syndicate.
 
 ## Usage
 
